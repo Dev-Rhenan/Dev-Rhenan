@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Renan+Santos!+%F0%9F%91%8B;Estudante+de+Ciberseguran%C3%A7a+%F0%9F%94%90;Desenvolvedor+em+Forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1+Mundo!+%F0%9F%8C%8D;Me+chamo+Renan+Santos!+%F0%9F%91%8B;Estudante+de+Ciberseguran%C3%A7a+%F0%9F%94%90;Desenvolvedor+em+Forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,9 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Cibersegurança** e **Segurança da Informação**
+- 🎓 Em 2022 iniciei o curso de **Fullstack** na **Kenzie Academy**
+- 🔴 Estudando **Cibersegurança** com foco em **Red Team**
+- 🏆 Bootcamp **Santander** de **Segurança da Informação**
 - 🐧 Amante de **Linux** e tecnologias open source
 - 💼 Atualmente trabalhando na **Vopak Brasil** - Terminal Alemoa
 - 🤖 Focado em **automação de processos** e desenvolvimento web
@@ -25,7 +27,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,linux,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,linux,git,github,vscode&theme=dark" />
 </div>
 
 ---
