@@ -14,6 +14,9 @@
 
 ## 🚀 Sobre Mim
 
+<img width="268" height="114" alt="image" src="https://github.com/user-attachments/assets/b7fdaba9-3662-411c-b6c0-b82a73148fec" />
+
+
 - 🎓 Em 2022 fiz o curso de **Fullstack** na **Kenzie Academy**
 - 🔴 Estudando **Cibersegurança** com foco em **Red Team**
 - 🏆 Bootcamp **Santander** de **Segurança da Informação**
