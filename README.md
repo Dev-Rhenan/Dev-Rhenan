@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Em 2022 iniciei o curso de **Fullstack** na **Kenzie Academy**
+- 🎓 Em 2022 fiz o curso de **Fullstack** na **Kenzie Academy**
 - 🔴 Estudando **Cibersegurança** com foco em **Red Team**
 - 🏆 Bootcamp **Santander** de **Segurança da Informação**
 - 🐧 Amante de **Linux** e tecnologias open source
