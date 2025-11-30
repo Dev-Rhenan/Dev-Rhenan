@@ -1,18 +1,16 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Renan+Santos!+%F0%9F%91%8B;Estudante+de+Ciberseguran%C3%A7a+%F0%9F%94%90;Desenvolvedor+em+Forma%C3%A7%C3%A3o+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+de+Processos+%F0%9F%A4%96" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/68ad44a18909fe4198c5ba36/7daddf8c6_image.png" width="150" style="border-radius: 50%;"/>
-  
-  # Olá, eu sou o Renan Santos! 👋
-  
-  **Estudante de Cibersegurança | Desenvolvedor em Formação | Automação de Processos**
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-dos-santos-899b7315b)
   [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@dev.rhenan)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renan.santos0185@gmail.com)
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=120&section=header"/>
 
 ## 🚀 Sobre Mim
 
@@ -27,13 +25,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=js,react,linux,git,github,vscode&theme=dark" />
 </div>
 
 ---
@@ -45,22 +37,24 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Rhenan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Rhenan&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
 ---
 
 ## 🎯 Projetos em Destaque
 
 ### 🚛 [Automa-o-VPK](https://github.com/Dev-Rhenan/Automa-o-VPK)
 Sistema de automação para comparação de programações de veículos - Vopak Brasil.
-Desenvolvido com React, JavaScript e Base44.
-
----
-
-## 📈 Objetivos 2025
-
-- [ ] Certificação em Segurança da Informação
-- [ ] Aprofundar conhecimentos em Ethical Hacking
-- [ ] Contribuir em projetos open source
-- [ ] Criar mais projetos de automação
 
 ---
 
@@ -72,17 +66,4 @@ Desenvolvido com React, JavaScript e Base44.
   
 </div>
 
-<!--
-**Dev-Rhenan/Dev-Rhenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0077b5&height=120&section=footer"/>
