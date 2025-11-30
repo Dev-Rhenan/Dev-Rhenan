@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-<img width="268" height="114" alt="image" src="https://github.com/user-attachments/assets/b7fdaba9-3662-411c-b6c0-b82a73148fec" />
+
 
 
 - 🎓 Em 2022 fiz o curso de **Fullstack** na **Kenzie Academy**
@@ -24,6 +24,12 @@
 - 💼 Atualmente trabalhando na **Vopak Brasil** - Terminal Alemoa
 - 🤖 Focado em **automação de processos** e desenvolvimento web
 - 📍 São Paulo, Brasil
+
+- MEU FOC É SER :
+
+- 
+- <img width="268" height="114" alt="image" src="https://github.com/user-attachments/assets/7a33aa02-e559-4288-a936-705008dab911" />
+
 
 ---
 
