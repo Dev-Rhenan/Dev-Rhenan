@@ -25,13 +25,12 @@
 - 🤖 Focado em **automação de processos** e desenvolvimento web
 - 📍 São Paulo, Brasil
 
-- MEU FOC É SER :
+- Meu Foco é ser:
 
-- 
+
 - <img width="268" height="114" alt="image" src="https://github.com/user-attachments/assets/7a33aa02-e559-4288-a936-705008dab911" />
 
 
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
