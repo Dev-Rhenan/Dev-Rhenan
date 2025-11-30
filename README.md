@@ -21,7 +21,7 @@
 - 🔴 Estudando **Cibersegurança** com foco em **Red Team**
 - 🏆 Bootcamp **Santander** de **Segurança da Informação**
 - 🐧 Amante de **Linux** e tecnologias open source
-- 💼 Atualmente trabalhando na **Vopak Brasil** - Terminal Alemoa
+- 💼 Atualmente sou FATURISTA na Vopak Brasil querendo migrar para a área de tecnogia.
 - 🤖 Focado em **automação de processos** e desenvolvimento web
 - 📍 São Paulo, Brasil
 
